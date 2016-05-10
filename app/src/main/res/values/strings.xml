@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">android-example-unittest</string>
+    <string name="testStr">hihihi</string>
+</resources>
